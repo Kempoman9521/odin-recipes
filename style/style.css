@@ -1,4 +1,7 @@
-.list .link{
+
+.list .text, .list .link{
     font-size: 25px;
     font-weight: bold;
+    color:rgb(220, 20, 20)
 }
+ 

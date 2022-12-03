@@ -1,4 +1,6 @@
 
+/* Below is the style for homepage */
+
 .list .text, .list .link{
     font-size: 25px;
     font-weight: bold;
@@ -9,6 +11,8 @@
 .background{
     background-color: #45396f;
 }
+
+/*Below is the style for brownies.html  */
 
 #brownies{
     background-color: #965c0b9c
@@ -27,6 +31,9 @@
  width: 800px;
  height: auto;
 }
+
+/* below is the style for cookies.html */
+
 .green{
     background-color:#03a40b
 }
